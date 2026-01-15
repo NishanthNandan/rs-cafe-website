@@ -244,3 +244,17 @@ img {
 .about-text p {
   max-width: 480px;
 }
+.map {
+  margin-top: 1.5rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.contact-info {
+  margin-top: 1rem;
+  
+} 
+.contact-info p {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+} 
